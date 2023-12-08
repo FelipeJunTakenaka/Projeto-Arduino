@@ -6,4 +6,4 @@
 
 Algumas fotos e prints sobre o processo da casa automática:
 
-![Projeto Arduíno com HC-06](https://github.com/FelipeJunTakenaka/Projeto-Arduino/assets/129780921/ea8c76b6-6750-44e7-af2b-bab19c70e1c1)
+
