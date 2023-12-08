@@ -6,4 +6,3 @@
 
 Algumas fotos e prints sobre o processo da casa automática:
 
-
